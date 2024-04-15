@@ -1,2 +1,1 @@
-changes made in master after commits in branch
-this  file is file named edit
+this is the file in master
